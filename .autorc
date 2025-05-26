@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "YOUgggg123",
+  "repo": "container-y7k-xek",
+  "name": "YOUgggg123",
+  "email": "qq294472289@gmail.com",
+}
